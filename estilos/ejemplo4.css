@@ -1,0 +1,7 @@
+.contenedor{
+    display:flex;
+    flex-direction:column-reverse;
+    }
+    .elemento{
+        width:25%;
+        }

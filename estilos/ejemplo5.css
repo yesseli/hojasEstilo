@@ -1,0 +1,7 @@
+.contenedor{
+    display:flex;
+    flex-wrap:wrap;
+    }
+    .elemento{
+        width:25%;
+        }

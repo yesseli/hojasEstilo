@@ -1,0 +1,9 @@
+.contenedor{
+    display:flex;
+    }
+    .elemento{
+    flex:1 1 0;
+    }
+    .elemento:nth-child(4){
+    flex-grow:3;
+    }

@@ -1,0 +1,9 @@
+.contenedor{
+    display:flex;
+    }
+    .elemento:nth-child(even){
+    order:1;
+    }
+    .elemento{
+        width:21%;
+        }
